@@ -10,3 +10,4 @@ ReelList adalah aplikasi untuk mengelola dan melacak koleksi film Anda. Fitur ya
 4. Melacak status playlist film
 
 
+Link Desain UI : https://www.figma.com/design/KJmpAhKYop5BbXiIIom5lu/ReelList---Jabar-Digital-Academy?node-id=1%3A3&t=hzfw6QlmxFQvVxju-1
